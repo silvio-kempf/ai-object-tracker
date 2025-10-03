@@ -2,17 +2,7 @@
 
 A real-time **multi-object tracking** system in Python that combines state-of-the-art **YOLOv8 detection** with a **custom IoU-based tracker** for persistent object identification across video frames.
 
-![Demo](assets/demo.gif)
-*Real-time object tracking with persistent IDs*
-
-
-```bash
-# Quick start with webcam
-git clone https://github.com/silvio-kempf/ai-object-tracker.git
-cd ai-object-tracker
-pip install -r requirements.txt
-python track_realtime.py --source 0
-```
+<img src="assets/demo.gif" alt="Demo" width="600"/>
 
 ---
 
